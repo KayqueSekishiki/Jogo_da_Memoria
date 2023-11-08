@@ -32,7 +32,6 @@ h2 {
 }
 
 .game {
-  outline: 1px solid red;
   width: 430px;
   height: 430px;
   display: flex;
